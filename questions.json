@@ -1,0 +1,91 @@
+[
+    {
+      "survey": 0,
+      "title": "Below are some statements about feelings and thoughts. Please tick the box that best describes your experience of each over the last 2 weeks",
+      "questions": [
+        {"subQuestion" : 0, "text": "I’ve been feeling optimistic about the future", "answered": "false"},
+        {"subQuestion" : 1, "text": "I’ve been feeling useful", "answered": "false"},
+        {"subQuestion" : 2, "text": "I’ve been feeling relaxed", "answered": "false"},
+        {"subQuestion" : 3, "text": "I’ve been feeling interested in other people", "answered": "false"},
+        {"subQuestion" : 4, "text": "I’ve had energy to spare", "answered": "false"},
+        {"subQuestion" : 5, "text": "I’ve been dealing with problems well", "answered": "false"},
+        {"subQuestion" : 6, "text": "I’ve been thinking clearly", "answered": "false"},
+        {"subQuestion" : 7, "text": "I’ve been feeling good about myself", "answered": "false"},
+        {"subQuestion" : 8, "text": "I’ve been feeling close to other people", "answered": "false"},
+        {"subQuestion" : 9, "text": "I’ve been feeling confident", "answered": "false"},
+        {"subQuestion" : 10, "text": "I’ve been able to make up my own mind about things", "answered": "false"},
+        {"subQuestion" : 11, "text": "I’ve been feeling loved", "answered": "false"},
+        {"subQuestion" : 12, "text": "I’ve been interested in new things", "answered": "false"},
+        {"subQuestion" : 13, "text":  "I’ve been feeling cheerful", "answered": "false"}
+      ],
+      "answers": [
+        "None of the time",
+        "Rarely",
+        "Some of the time",
+        "Often",
+        "All of the time"
+      ]
+    },
+  
+    {
+      "survey": 1,
+      "title": "Over the last 2 weeks, how often have you been bothered by any of the following problems?",
+      "questions": [
+        {"subQuestion" : 0, "text": "Little interest or pleasure in doing things", "answered": "false"},
+        {"subQuestion" : 1, "text": "Feeling down, depressed, or hopeless", "answered": "false"},
+        {"subQuestion" : 2, "text": "Trouble falling/staying asleep, sleeping too much", "answered": "false"},
+        {"subQuestion" : 3, "text": "Feeling tired or having little energy", "answered": "false"},
+        {"subQuestion" : 4, "text": "Poor appetite or overeating", "answered": "false"},
+        {"subQuestion" : 5, "text": "Feeling bad about yourself – or that you are a failure or have let yourself or your family down.", "answered": "false"},
+        {"subQuestion" : 6, "text": "Trouble concentrating on things, such as reading the newspaper or watching television.", "answered": "false"},
+        {"subQuestion" : 7, "text": "Moving or speaking so slowly that other people could have noticed. Or the opposite – being so fidgety or restless that you have been moving around a lot more than usual.", "answered": "false"},
+        {"subQuestion" : 8, "text": "Thoughts that you would be better off dead or of hurting yourself in some way", "answered" : "false"}
+
+      ],
+      "answers": [
+        "Not at all",
+        "Several days",
+        "More than half the days",
+        "Nearly every day"
+      ]
+    },
+  
+    {
+      "survey": 2,
+      "title": "Over the last 2 weeks, how often have you been bothered by the following problems?",
+      "questions": [
+        {"subQuestion" : 0, "text": "Feeling nervous, anxious or on edge", "answered": "false"},
+        {"subQuestion" : 1, "text": "Not being able to stop or control worrying", "answered": "false"},
+        {"subQuestion" : 2, "text": "Worrying too much about different things", "answered": "false"},
+        {"subQuestion" : 3, "text": "Trouble relaxing", "answered": "false"},
+        {"subQuestion" : 4, "text": "Being so restless that it is hard to sit still", "answered": "false"},
+        {"subQuestion" : 5, "text": "Becoming easily annoyed or irritable", "answered": "false"},
+        {"subQuestion" : 6, "text": "Feeling afraid as if something awful might happen", "answered": "false"}
+      ],
+      "answers": [
+        "Not at all",
+        "Several days",
+        "More than half the days",
+        "Nearly every day"
+      ]
+    },
+  
+    {
+      "survey": 3,
+      "title": "Please indicate for each of the statements, the extent to which they apply to your situation, the way you feel now.",
+      "questions": [
+        {"subQuestion" : 0, "text": "I experience a general sense of emptiness", "answered": "false"},
+        {"subQuestion" : 1, "text": "I miss having people around me", "answered": "false"},
+        {"subQuestion" : 2, "text": "I often feel rejected", "answered": "false"},
+        {"subQuestion" : 3, "text": "There are plenty of people I can rely on when I have problems", "answered": "false"},
+        {"subQuestion" : 4, "text": "There are many people I can trust completely", "answered": "false"},
+        {"subQuestion" : 5, "text": "There are enough people I feel close to", "answered": "false"}
+
+
+      ],
+      "answers": [
+        "Yes", "More or less", "No"
+      ]
+    }
+  ]
+  

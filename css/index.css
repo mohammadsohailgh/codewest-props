@@ -1,0 +1,35 @@
+/* body {
+    color: #73879C;
+    background: #e9edf1;
+    font-family: "Helvetica Neue",Roboto,Arial,"Droid Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 40px;   
+} */
+
+html{
+    height:100%;
+  }
+body
+  { height:100%;
+  }
+
+  @media (min-width: 979px) {
+    body {
+      padding-top:100px;
+    }  
+  }
+
+
+
+  .disclaimer-text {
+      padding-top: 50px;
+  }
+
+  #start-button {
+      text-decoration: none;
+      font-size: 60px;
+  }
